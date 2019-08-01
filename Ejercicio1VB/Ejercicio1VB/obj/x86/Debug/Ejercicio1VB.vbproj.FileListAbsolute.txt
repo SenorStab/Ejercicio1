@@ -1,0 +1,9 @@
+C:\Users\Usuario\Ejercicio1\Ejercicio1VB\Ejercicio1VB\bin\Debug\Ejercicio1VB.exe
+C:\Users\Usuario\Ejercicio1\Ejercicio1VB\Ejercicio1VB\bin\Debug\Ejercicio1VB.pdb
+C:\Users\Usuario\Ejercicio1\Ejercicio1VB\Ejercicio1VB\bin\Debug\Ejercicio1VB.xml
+C:\Users\Usuario\Ejercicio1\Ejercicio1VB\Ejercicio1VB\obj\x86\Debug\Ejercicio1VB.LogIn.resources
+C:\Users\Usuario\Ejercicio1\Ejercicio1VB\Ejercicio1VB\obj\x86\Debug\Ejercicio1VB.Resources.resources
+C:\Users\Usuario\Ejercicio1\Ejercicio1VB\Ejercicio1VB\obj\x86\Debug\Ejercicio1VB.vbproj.GenerateResource.Cache
+C:\Users\Usuario\Ejercicio1\Ejercicio1VB\Ejercicio1VB\obj\x86\Debug\Ejercicio1VB.exe
+C:\Users\Usuario\Ejercicio1\Ejercicio1VB\Ejercicio1VB\obj\x86\Debug\Ejercicio1VB.xml
+C:\Users\Usuario\Ejercicio1\Ejercicio1VB\Ejercicio1VB\obj\x86\Debug\Ejercicio1VB.pdb
